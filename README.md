@@ -4,7 +4,7 @@ A private-by-design receipt review workspace for Brazilian freelancers. New proj
 
 ## Use it
 
-Public demo (publication in progress): https://brunof94-debug.github.io/confere-week2/
+Public demo: https://brunof94-debug.github.io/confere-week2/
 
 1. Add PNG/JPG/WebP receipts or try three clearly fictional sample images.
 2. A real Tesseract LSTM model reads the images in a browser worker. Inspect the image, source text and labeled total.
@@ -41,7 +41,7 @@ npm run check
 npm start
 ```
 
-Open http://127.0.0.1:4327/ . `build.mjs` downloads pinned language assets and copies the app/runtime into a flat `dist/` directory. GitHub Pages serves that directory's published contents from the repository root. No server application or paid service is required.
+Open http://127.0.0.1:4327/ . `build.mjs` downloads pinned language assets and copies the app/runtime into a flat `dist/` directory. GitHub Actions tests and builds the source, then publishes `dist/` as the Pages artifact. No server application or paid service is required.
 
 The unit suite exercises decimal validation, subtotal/tender rejection, conflicting totals, invalid dates, duplicate handling, approval constraints, approved-only sums, CSV formula protection and HTML escaping. Real browser OCR and export verification are recorded separately in `docs/evidence/`; unit tests are not OCR accuracy measurements. Synthetic sample labels and OCR results are always distinguished.
 
