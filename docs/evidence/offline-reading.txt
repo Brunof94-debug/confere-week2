@@ -1,0 +1,119 @@
+WORKSPACE / RECEIPTS
+Language / Idioma
+EN · English
+PT · Português
+LESS ADMIN. MORE BILLABLE TIME.
+Receipts, reviewed.
+Books, a little calmer.
+
+Turn a pile of photos into an expense list you can actually check. Read locally, review the source, export only what you approve.
+
+CONFERE / 001
+R$ 124,90 ✓
+READ → REVIEW → READY
+100%
+LOCAL
+APPROVED TOTAL
+R$ 159,80
+Only reviewed receipts count
+NEEDS REVIEW
+3
+You have the final word
+READY TO EXPORT
+2
+With a trace back to the source
+Your receipt inbox
+6 receipts in this workspace
+Try 3 samples
++ Add receipts
+
+Three fictional receipt images were processed by the real recognition model. One is a duplicate. Review them before exporting.
+
+All
+To review
+Approved
+Excluded
+CAFE DO BAIRRO
+2026-10-13 · Alimentação
+↳ Possible duplicate
+R$ 34,90
+Approved
+PAPELARIA CENTRAL
+2026-10-13 · Materiais
+↳ Possible duplicate
+R$ 124,90
+Approved
+CAFE DO BAIRRO
+2026-10-13 · Outros
+R$ 34,90
+Excluded
+CAFE DO BAIRRO
+2026-10-13 · Outros
+↳ Possible duplicate
+R$ 34,90
+To review
+PAPELARIA CENTRAL
+2026-10-13 · Outros
+↳ Possible duplicate
+R$ 124,90
+To review
+CAFE DO BAIRRO
+2026-10-13 · Outros
+↳ Possible duplicate
+R$ 34,90
+To review
+Saved in this browser
+Clear workspace
+CAFE DO BAIRRO
+sample-cafe-copy.png · Fictional sample
+To review
+Merchant
+Receipt date
+Total (BRL)
+Category
+Other
+Meals
+Transport
+Supplies
+Equipment
+Services
+Note / reason for a correction
+TOTAL FOUND IN THE SOURCE
+TOTAL R$ 34,90
+Possible duplicate: sample-cafe.png
+Another receipt has the same file, or the same merchant, date and total. Exclude a duplicate or explicitly explain why both should count.
+ These are separate expenses (reason required)
+Recognized text & reading details
+
+Local recognition: Tesseract.js 6.0.1 · LSTM · por+eng
+OCR reading score: 94.0 · Reading time: 0.35s
+Engine score, not a probability that the amount is correct.
+
+COMPROVANTE FICTICIO
+CAFE DO BAIRRO
+Amostra sem validade fiscal
+DATA: 13/10/2026
+MOEDA: BRL
+CAFE + LANCHE     34,90
+TOTAL R$ 34,90
+PAGO NO CARTAO
+OBRIGADO PELA PREFERENCIA
+
+
+Source image SHA-256:
+1bbae0c9e85234576959035caab54dd1f26e9d6246919b36e963774dec9848ec
+
+Exclude
+Save changes
+Approve expense
+Check every field against the image before approving.
+↗
+Close the loop.
+
+Export approved expenses, or download a packet with original images and recognition evidence.
+
+Expense CSV
+Evidence packet ↓
+Made for the work between a receipt and a reimbursement.
+Keep available offline
+Source code ↗
