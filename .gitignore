@@ -1,0 +1,4 @@
+node_modules/
+dist/
+*.traineddata
+docs/evidence/private/

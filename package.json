@@ -1,0 +1,13 @@
+{
+  "name": "confere-week2",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node server.mjs",
+    "test": "node --test tests.mjs",
+    "check": "node --check app.mjs && node --check core.mjs && node --check sw.js"
+  },
+  "dependencies": {"tesseract.js": "6.0.1", "tesseract.js-core": "6.1.2"}
+}
