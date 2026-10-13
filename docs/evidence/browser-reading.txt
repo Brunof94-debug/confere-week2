@@ -1,0 +1,84 @@
+PAPELARIA CENTRAL
+sample-supplies.png · Fictional sample
+Approved
+Merchant
+Receipt date
+Total (BRL)
+Category
+Other
+Meals
+Transport
+Supplies
+Equipment
+Services
+Note / reason for a correction
+TOTAL FOUND IN THE SOURCE
+TOTAL R$ 124,90
+Recognized text & reading details
+
+Local recognition: Tesseract.js 6.0.1 · LSTM · por+eng
+OCR reading score: 94.0 · Reading time: 0.68s
+Engine score, not a probability that the amount is correct.
+
+COMPROVANTE FICTICIO
+PAPELARIA CENTRAL
+Amostra sem validade fiscal
+DATA: 13/10/2026
+MOEDA: BRL
+MATERIAL ESCRITORIO 99,90
+PAPEL A4             25,00
+TOTAL R$ 124,90
+PAGO NO CARTAO
+OBRIGADO PELA PREFERENCIA
+
+
+Source image SHA-256:
+9eb2d87c516632bd5ba10e1d0c0044eef0d94a0b38af87f317b25845628343b6
+
+Exclude
+Save changes
+Approve expense
+Approved at 13/10/2026, 19:23:32
+
+---
+
+CAFE DO BAIRRO
+sample-cafe.png · Fictional sample
+Approved
+Merchant
+Receipt date
+Total (BRL)
+Category
+Other
+Meals
+Transport
+Supplies
+Equipment
+Services
+Note / reason for a correction
+TOTAL FOUND IN THE SOURCE
+TOTAL R$ 34,90
+Recognized text & reading details
+
+Local recognition: Tesseract.js 6.0.1 · LSTM · por+eng
+OCR reading score: 94.0 · Reading time: 0.76s
+Engine score, not a probability that the amount is correct.
+
+COMPROVANTE FICTICIO
+CAFE DO BAIRRO
+Amostra sem validade fiscal
+DATA: 13/10/2026
+MOEDA: BRL
+CAFE + LANCHE     34,90
+TOTAL R$ 34,90
+PAGO NO CARTAO
+OBRIGADO PELA PREFERENCIA
+
+
+Source image SHA-256:
+1bbae0c9e85234576959035caab54dd1f26e9d6246919b36e963774dec9848ec
+
+Exclude
+Save changes
+Approve expense
+Approved at 13/10/2026, 19:25:23
